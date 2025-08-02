@@ -98,4 +98,6 @@ class MyPlugin(BasePlugin):
 
 ## License
 
-MIT License - see LICENSE file for details
+Lab of Robo Sapien Solutions
+All rights reserved
+
