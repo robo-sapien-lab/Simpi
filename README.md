@@ -1,2 +1,0 @@
-
-# Simpi Singh Reddit Bot
